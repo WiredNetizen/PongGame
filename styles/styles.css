@@ -8,3 +8,11 @@
     margin-right: auto;
     display: block;
 }
+
+.left-banner {
+    margin-right: auto;
+}
+
+.right-banner {
+    margin-left: auto;
+}

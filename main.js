@@ -210,7 +210,7 @@ function checkBallCollisionWithPaddle(paddle)
             ball.direction.y = -1;
         }
 
-        if (ball.scalers.x < 7 || ball.scalars.y < 7)
+        if (ball.scalers.x < 7 || ball.scalers.y < 7)
         {
             ball.scalers.x *= 1.20;
             ball.scalers.y *= 1.20;
